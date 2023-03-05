@@ -1,1 +1,60 @@
-h1 {color: blue;}
+body {font-size: 20px;
+line-height: 2;
+font-family: 'Puritan', sans-serif;
+margin: auto; line-height: 1.5;}
+
+
+h1 {color: white; 
+    text-align: center; font-size: 75px;
+}
+
+h2 {color: white;  
+    text-align: center; margin: auto; }
+
+h3 {color: #696969; 
+    text-align: center; font-size: 40px;
+margin: auto;}
+
+h4, ul {margin-bottom: 0; margin-top: 0;}
+
+
+h1, h2, h3 {font-style: italic;}
+.andreavorlova {color: #696969;}
+
+.a {font-weight: 600;}
+.andreavorlova {font-size: 60px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; }
+
+
+.fotoav {width: 200px; 
+    float: inline-start; 
+    border-radius: 30px;}
+
+.fotobike, .fotopilates, .fotorodina, .fotohory, .fotopets, .fotoseberozvoj {width: 50px; 
+    border-radius: 30px; margin: 0 30px 0 50px;}
+
+.fototelefon, .fotoemail, .fotolinkedin {width: 40px; 
+    border-radius: 10px; margin: 0 30px 0 50px;}
+
+th, td {border-bottom: 1px solid rgb(61, 60, 60);  
+    text-align: left; 
+    padding-left: 50px;}
+
+table {border-spacing: 0}
+
+
+.profil {text-align: center; background-color: azure; padding: 0 30px 30px 50px; margin-top: 0; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+.hlavicka {background-image: url(obrázky/pozadi\ grass3.JPG); padding:  100px 50px;}
+.praxe {background-color:  rgb(163, 204, 204); padding: 30px 30px 30px 50px;}
+.vzdelani {background-color:  rgb(141, 167, 167); padding: 30px 30px 30px 50px}
+.dovednosti {background-color: #bedada; padding: 30px 30px 30px 50px}
+.impulzy {background-color: #98b9b9; line-height: 3; padding: 30px 30px 30px 50px}
+.paticka {background-color: #ddf1f1; padding: 30px 30px 30px 50px}
+.paticka {margin: 0; padding: 0; text-align: left; background-color: black; color: white;}
+
+
+.menu li {display: inline-block;}
+.menu {margin: 0; padding: 0; text-align: center; background-color: black;}
+.menu a {color: white; text-decoration: none; font-weight: 700; padding: 15px 40px; display: inline-block;}
+
+.menu a:hover, .menu a:focus, menu a:active {background-color: #696969;}
+
